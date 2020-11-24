@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science Enthusiast!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Node JS, Vue JS, Algorithms and actually everything!
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
   <br />
@@ -29,6 +29,8 @@
 - [Skeleton Screens in Plain JavaScript](https://medium.com/@suparthnarayanghimire2014/skeleton-screens-in-plain-javascript-88bce254b0ab)
 - [Simple GitHub ­Profile Page Display APP using GitHub API and Flutter using BLoC Pattern](https://medium.com/@suparthnarayanghimire2014/simple-github-profile-page-display-app-using-github-api-and-flutter-using-bloc-pattern-62513f1cfbcb)
 
-  <summary>:zap: GitHub Stats</summary>
+<br />
+<br />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suparthghimire&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suparthghimire&show_icons=true&hide_border=true" />
