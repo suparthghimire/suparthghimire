@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science Enthusiast!!
 
-- 🌱 I’m currently learning Node JS, Vue JS, Algorithms and actually everything!
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
   <br />
@@ -32,5 +32,6 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
+### :zap:GitHub Stats
+
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suparthghimire&show_icons=true&hide_border=true" />
