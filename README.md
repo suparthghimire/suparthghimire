@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-<br />
+  <br />
 
 ### Languages and Tools:
 
@@ -27,12 +26,8 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
 - [Skeleton Screens in Plain JavaScript](https://medium.com/@suparthnarayanghimire2014/skeleton-screens-in-plain-javascript-88bce254b0ab)
 - [Simple GitHub ­Profile Page Display APP using GitHub API and Flutter using BLoC Pattern](https://medium.com/@suparthnarayanghimire2014/simple-github-profile-page-display-app-using-github-api-and-flutter-using-bloc-pattern-62513f1cfbcb)
-
-## <!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
