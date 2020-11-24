@@ -1,6 +1,6 @@
 ### Hi there, I'm Suparth 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.suparthnarayanghimire.com.np)
+[![Website](https://img.shields.io/website?label=suparthnarayanghimire.com.np&style=for-the-badge&url=https%3A%2F%2Fsuparthnarayanghimire.com.np)](https://www.suparthnarayanghimire.com.np)
 
 ## I'm a Computer Science Enthusiast!!
 
