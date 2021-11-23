@@ -1,6 +1,6 @@
 ### Hi there, I'm Suparth 👋
 
-[![Website](https://img.shields.io/website?label=suparthnarayanghimire.com.np&style=for-the-badge&url=https%3A%2F%2Fsuparthnarayanghimire.com.np)](https://www.suparthnarayanghimire.com.np)
+[![Website](https://img.shields.io/website?label=suparthnarayanghimire.com.np&style=for-the-badge&url=https%3A%2F%2Fsuparthnarayanghimire.com.np)](https://suparthnarayanghimire.com.np)
 
 ## Your Friendly Neighbourhood Full Stack Developer
 
