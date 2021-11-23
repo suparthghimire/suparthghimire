@@ -5,8 +5,8 @@
 ## Your Friendly Neighbourhood Full Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
+- 💻 I'm Currently working as a Freelance FullStack Developer
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
   <br />
 
 ### Languages and Tools:
