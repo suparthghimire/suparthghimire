@@ -10,7 +10,8 @@
   <br />
 
 ### Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -29,11 +30,15 @@
 <br />
 
 ### 📕 Latest Blog Posts
+
+- [You Font Understand Statements (in JavaScript)](https://suparthnarayanghimire.com.np/blogs/statements)
+- [What is This? (in JavaScript)](https://suparthnarayanghimire.com.np/blogs/this)
+- [Functional Programming (in JavaScript)](https://suparthnarayanghimire.com.np/blogs/functional_programming)
 - [JavaScript Local Storages](https://suparthnarayanghimire.com.np/use-local-storages-instead-of-databases-96ef48991c68)
 - [CSS Theme Switch](https://suparthnarayanghimire.com.np/make-your-project-feel-the-night-5a00ff2270af?guid=none&deviceId=fa76da31-73c2-447e-92b8-5cc72a1e816d)
 - [Skeleton Screens Using Vanilla JavaScript](https://suparthnarayanghimire.com.np/skeleton-screens-in-plain-javascript-88bce254b0ab)
 - [Simple GitHub Profile Page Display APP using GitHub API and Flutter using BLoC Pattern](https://medium.com/@suparthnarayanghimire2014/simple-github-profile-page-display-app-using-github-api-and-flutter-using-bloc-pattern-62513f1cfbcb)
-<br />
+  <br />
 
 ### :zap:GitHub Stats
 
