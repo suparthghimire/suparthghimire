@@ -5,8 +5,7 @@
 ## Your Friendly Neighbourhood Full Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 💻 I'm Currently working as a Freelance FullStack Developer
-- 👯 I’m looking to collaborate with other developers
+- 💻 I'm Currently working as a Software Engineer
   <br />
 
 ### Languages and Tools:
